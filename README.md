@@ -6,12 +6,17 @@ on foot and in patrol cars.
 
 ## Download
 
-Get the latest build from **[Releases](https://github.com/corporal-pursuit/Pursuit/releases/latest)**:
-download `Pursuit-<version>-win64.zip`, extract it anywhere and run `Pursuit.exe`.
+**[Download the Pursuit launcher](https://github.com/corporal-pursuit/PursuitLauncher/releases/latest/download/PursuitLauncher.exe)**
+and run it. It installs the game (about 620 MB to download, 1.8 GB on disk) and keeps it up to date: updates
+download only what changed, usually a few MB.
 
 - Windows 10 or 11, 64-bit.
-- The build is not code-signed, so Windows SmartScreen may warn you the first time: choose **More info → Run anyway**.
-- Matches only include players on the same version. When a new release is out, update before you queue.
+- The launcher is not code-signed, so Windows SmartScreen may warn you the first time: choose **More info → Run anyway**.
+- Matches only include players on the same version. The launcher updates the game by itself when you start it.
+- To uninstall, use **⋯ → Uninstall** in the launcher, or *Settings → Apps → Pursuit*.
+
+The [Releases](https://github.com/corporal-pursuit/Pursuit/releases) page has the release notes; its files are what
+the launcher downloads. The launcher's source is at [corporal-pursuit/PursuitLauncher](https://github.com/corporal-pursuit/PursuitLauncher).
 
 ## Playing
 
